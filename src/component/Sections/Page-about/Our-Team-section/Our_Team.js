@@ -13,8 +13,24 @@ const Our_Team = ({ initialValues }) => {
                 <h2>{data.title}</h2>
                 <p className="max-w-[590px] mx-auto">{data.label}</p>
               </div>
+              <div className="mx-[30px] md:mx-auto">
+                <img
+                  src={data.imageSrc} // Replace with actual image source
+                  alt={data.imageAlt} // Replace with actual alt text
+                  className="w-full h-auto object-cover rounded-lg"
+                />
+              </div>
+            </div>
+          );
+        })}
+    </section>
+  );
+};
 
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-7">
+export default Our_Team;
+
+{
+  /* <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-7">
                 {data.details &&
                   data.details.map((details_data, index) => {
                     return (
@@ -63,17 +79,12 @@ const Our_Team = ({ initialValues }) => {
                       </div>
                     );
                   })}
-              </div>
-              <div className="mt-16 mb-10 text-center">
+              </div> */
+}
+{
+  /* <div className="mt-16 mb-10 text-center">
                 <Link href="team" className="btn btn-primary mx-auto">
                   View all
                 </Link>
-              </div>
-            </div>
-          );
-        })}
-    </section>
-  );
-};
-
-export default Our_Team;
+              </div> */
+}

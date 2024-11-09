@@ -1,7 +1,9 @@
 [
     {
         "title": "Our Team",
-        "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+        "label": "Meet our dedicated team of professionals, working together to bring you exceptional service and results.",
+        "imageSrc": "/assets/images/our-team-img.jpg",
+        "imageAlt": "our-team-img",
         "details": [
             {
                 "slug": "/team-detail",
