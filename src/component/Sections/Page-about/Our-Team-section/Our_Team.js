@@ -13,7 +13,7 @@ const Our_Team = ({ initialValues }) => {
                 <h2>{data.title}</h2>
                 <p className="max-w-[590px] mx-auto">{data.label}</p>
               </div>
-              <div className="mx-[30px] md:mx-auto">
+              <div className="mx-[20px] md:mx-auto">
                 <img
                   src={data.imageSrc} // Replace with actual image source
                   alt={data.imageAlt} // Replace with actual alt text
