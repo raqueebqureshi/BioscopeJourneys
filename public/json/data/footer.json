@@ -1,0 +1,154 @@
+[
+    {
+        "sign_up_mail": [
+            {
+                "title": "Sign up for our newsletter",
+                "label": "Save up to 50% on tours and trips. Get instant access to lower prices.",
+                "btn_label": "Submit"
+            }
+        ],
+        "mid_data": [
+            {
+                "logo": [
+                    {
+                        "slug": "/",
+                        "img": "/assets/images/logo_w.jpg",
+                        "alt": "logo-dark"
+                    }
+                ],
+                "details": "A Destination Management Company for INDIA, NEPAL, BHUTAN, SRI LANKA",
+                "icons": [
+                    {
+                        "slug": "https://www.facebook.com/",
+                        "icon": "fa-brands fa-facebook"
+                    },
+                    {
+                        "slug": "https://twitter.com/",
+                        "icon": "fa-brands fa-twitter"
+                    },
+                    {
+                        "slug": "https://www.youtube.com/",
+                        "icon": "fa-brands fa-youtube"
+                    },
+                    {
+                        "slug": "https://www.instagram.com/",
+                        "icon": "fa-brands fa-instagram"
+                    }
+                ]
+            }
+        ],
+        "page_list": {
+            "quick_links": [
+                {
+                    "title": "Quick Links",
+                    "menu": [
+                        {
+                            "slug": "/about",
+                            "label": "About Us"
+                        },
+                        {
+                            "slug": "/destinations",
+                            "label": "Destinations"
+                        },
+                        {
+                            "slug": "/tour",
+                            "label": "Tour"
+                        },
+                        
+                        
+                        {
+                            "slug": "/contact",
+                            "label": "Contact Us"
+                        }
+                    ]
+                }
+            ],
+            "contact_us": [
+                {
+                    "title": "Contact Us",
+                    "menu": [
+                        {
+                            "img": "/assets/images/pin.png",
+                            "alt": "call-sharp",
+                            "label": "A-96, IInd Floor, Dwarka, New Delhi, India- 110077"
+                        },
+                        {
+                            "img": "/assets/images/call-sharp.png",
+                            "alt": "call-sharp",
+                            "slug": "tel: +91-9873899913",
+                            "label": "91-9873899913"
+                        },
+                        {
+                            "img": "/assets/images/call-sharp.png",
+                            "alt": "call-sharp",
+                            "slug": "tel: +91-9910690245",
+                            "label": "91-9910690245"
+                        },
+                        {
+                            "img": "/assets/images/mail-unread.png",
+                            "alt": "mail-sharp",
+                            "slug": "mailto:tours@bioscopejourneysindia.com",
+                            "label": "tours@bioscopejourneysindia.com"
+                        }
+                    ]
+                }
+            ],
+            "gallery": [
+                {
+                    "title": "Gallery",
+                    "menu": [
+                        {
+                            "slug": "/gallery",
+                            "img": "/assets/images/footer-gallery-img1.jpg",
+                            "alt": "footer-gallery-img1"
+                        },
+                        {
+                            "slug": "/gallery",
+                            "img": "/assets/images/footer-gallery-img2.jpg",
+                            "alt": "footer-gallery-img2"
+                        },
+                        {
+                            "slug": "/gallery",
+                            "img": "/assets/images/footer-gallery-img3.jpg",
+                            "alt": "footer-gallery-img3"
+                        },
+                        {
+                            "slug": "/gallery",
+                            "img": "/assets/images/footer-gallery-img4.jpg",
+                            "alt": "footer-gallery-img4"
+                        },
+                        {
+                            "slug": "/gallery",
+                            "img": "/assets/images/footer-gallery-img4.jpg",
+                            "alt": "footer-gallery-img4"
+                        },
+                        {
+                            "slug": "/gallery",
+                            "img": "/assets/images/footer-gallery-img6.jpg",
+                            "alt": "footer-gallery-img6"
+                        },
+                        {
+                            "slug": "/gallery",
+                            "img": "/assets/images/footer-gallery-img7.jpg",
+                            "alt": "footer-gallery-img7"
+                        },
+                        {
+                            "slug": "/gallery",
+                            "img": "/assets/images/footer-gallery-img8.jpg",
+                            "alt": "footer-gallery-img8"
+                        }
+                    ]
+                }
+            ]
+        },
+        "last_data": [
+            {
+                "label": "Copyright 2024",
+                "label1": "Bioscope Journeys",
+                "label2": ". All Rights Reserved."
+            }
+        ],
+        "bg_image": "/assets/images/footer-bg-img.png",
+        "bg_alt": "/assets/images/footer-bg-img.jpg"
+    }
+]

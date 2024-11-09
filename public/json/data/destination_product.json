@@ -1,0 +1,100 @@
+[
+    {
+        "product": [
+            {
+                "id": 1,
+                "slug": "/destination-detail",
+                "title": "Rich  Heritage",
+                "short_des": "India is home to iconic monuments like the Taj Mahal, Qutub Minar, Red Fort, and Ajanta and Ellora caves, reflecting the country's ancient civilizations, architectural brilliance, and spiritual history.",
+                "image": "/assets/images/top-destinations-img-1.jpg",
+                "alt": "blog-img1",
+                "count": 3,
+                "btn_label": "Read more"
+            },
+            {
+                "id": 2,
+                "slug": "/destination-detail",
+                "title": "Arts and Architecture",
+                "short_des": "India's art and architecture reflect its rich heritage and history, from ancient temple carvings and majestic palaces to vibrant folk art and Mughal elegance. Discover the beauty of monuments, crafts, and designs, each telling unique stories of creativity and craftsmanship.",
+                "image": "/assets/images/top-destinations-img-2.jpg",
+                "alt": "blog-img2",
+                "count": 3,
+                "btn_label": "Read more"
+            },
+            {
+                "id": 3,
+                "slug": "/destination-detail",
+                "title": "Culinary Delights",
+                "short_des": "Indian cuisine is a rich tapestry, from northern spicy curries and tandoori to southern coconut-based dishes. Discover this legacy through culinary trails and hands-on cooking sessions, learning age-old recipes or fusion dishes in cozy homes or gourmet kitchens.",
+                "image": "/assets/images/top-destinations-img-3.jpg",
+                "alt": "blog-img-3",
+                "count": 4,
+                "btn_label": "Read more"
+            },
+            {
+                "id": 4,
+                "slug": "/destination-detail",
+                "title": "Arts ,Crafts and Textile",
+                "short_des": "Explore the local arts and crafts, from handwoven sarees in Varanasi, Kashmiri carpets, Madhubani paintings, to Pashmina shawls in Kashmir, and block printing in Rajasthan. Each region offers its own craft traditions.",
+                "image": "/assets/images/top-destinations-img-4.jpg",
+                "alt": "blog-img-4",
+                "count": 4,
+                "btn_label": "Read more"
+            },
+            {
+                "id": 5,
+                "slug": "/destination-detail",
+                "title": "Fairs & Festivals",
+                "short_des": "India’s diverse spiritual and cultural traditions mean there's always a celebration. From sacred pilgrimages and colorful festivals to lively village fairs, music, dance, and tribal rituals, experience the vibrant colors, deep faith, and energetic spirit of Indian festivals.",
+                "image": "/assets/images/top-destinations-img-5.jpg",
+                "alt": "blog-img-7",
+                "count": 4,
+                "btn_label": "Read more"
+            },
+            {
+                "id": 6,
+                "slug": "/destination-detail",
+                "title": "Music & Dance",
+                "short_des": "India’s music and dance are as diverse as its cultures, with each region offering unique rhythms, melodies, and movements. From classical Bharatanatyam and Kathak to folk and Bollywood styles, these art forms embody India’s heritage. Experience exclusive performances, traditional sounds, and the deep significance behind every gesture.",
+                "image": "/assets/images/top-destinations-img-6.jpg",
+                "alt": "blog-img-8",
+                "count": 4,
+                "btn_label": "Read more"
+            },
+            {
+                "id": 7,
+                "slug": "/destination-detail",
+                "title": " Adventure & Active Travel",
+                "short_des": "India’s varied landscapes—spanning mountains, river valleys, beaches, and forests—offer a wealth of exciting active travel and adventure opportunities. Bring an element of adventure to your India itinerary with activities like village or forest walks, cycling trails, hikes, treks, and thrilling adventure sports!",
+                "image": "/assets/images/top-destinations-img-7.jpg",
+                "alt": "blog-img-9",
+                "count": 4,
+                "btn_label": "Read more"
+            },
+            {
+                "id": 8,
+                "slug": "/destination-detail",
+                "title": "Wildlife",
+                "short_des": "India's biodiversity is unmatched, home to iconic wildlife like Bengal tigers, one-horned rhinos, and snow leopards. Explore its national parks and sanctuaries, from lush jungles to serene wetlands, offering thrilling safaris and treks to witness nature in its purest form.",
+                "image": "/assets/images/top-destinations-img-8.jpg",
+                "alt": "blog-img-10",
+                "count": 4,
+                "btn_label": "Read more"
+            },
+            {
+                "id": 9,
+                "slug": "/destination-detail",
+                "title": "River Cruises & Luxury Trains",
+                "short_des": "India boasts luxurious trains and river cruises that let travelers experience its rich heritage, diverse landscapes, and iconic rivers. Offering unmatched comfort and glimpses into India’s vibrant culture, these journeys blend history, scenic beauty, and opulent hospitality.",
+                "image": "/assets/images/top-destinations-img-9.jpg",
+                "alt": "blog-img-11",
+                "count": 5,
+                "btn_label": "Read more"
+            }
+            
+            
+        ],
+        "btn_label": "Load more",
+        "btn_slug": "/destination-two"
+    }
+]

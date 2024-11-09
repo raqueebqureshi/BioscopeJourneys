@@ -1,0 +1,40 @@
+[
+    {
+        "images": [
+            {
+                "src": "/assets/images/hero-bg-img1.jpg",
+                "alt": "hero img 1"
+            },
+            {
+                "src": "/assets/images/hero-bg-img2.jpg",
+                "alt": "hero img 2"
+            },
+            {
+                "src": "/assets/images/hero-bg-img3.jpg",
+                "alt": "hero img 3"
+            },
+            {
+                "src": "/assets/images/hero-bg-img4.jpg",
+                "alt": "hero img 4"
+            },
+            {
+                "src": "/assets/images/hero-bg-img5.jpg",
+                "alt": "hero img 5"
+            },
+            {
+                "src": "/assets/images/hero-bg-img6.jpg",
+                "alt": "hero img 6"
+            }
+            ,
+            {
+                "src": "/assets/images/hero-bg-img7.jpg",
+                "alt": "hero img 7"
+            }
+        ],
+        "title": "Let’s travel and explore",
+        "label": "Discover amazing places and Unfold Wonders of India, Frame by Frame",
+        "search_title": "Keyword",
+        "destination_title": "Destination",
+        "duration_title": "Duration"
+    }
+]

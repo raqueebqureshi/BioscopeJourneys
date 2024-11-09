@@ -1,0 +1,39 @@
+[
+    {
+        "title": "What our Travelers are saying",
+        "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod.",
+        "review": [
+            {
+                "user_name": "John Borthe",
+                "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png",
+                "comment": "“Six days of cycling on and off road, tough but super enjoyable and interesting. Lucky to have a great group and tour guide, Alfonso.”",
+                "alt": "profile picture",
+                "rating": 3,
+                "country": "Newzealand-NZ"
+            },
+            {
+                "user_name": "John Borthe",
+                "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png",
+                "comment": "“The tours in this website are great. I had been really enjoy with my family! The team is very professional and taking care of the customers. Will surely recommend to my freind to join this company!”",
+                "alt": "profile picture",
+                "rating": 4,
+                "country": "Newzealand-NZ"
+            },
+            {
+                "user_name": "John Borthe",
+                "image": "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/jese-leos.png",
+                "comment": "“Six days of cycling on and off road, tough but super enjoyable and interesting. Lucky to have a great group and tour guide, Alfonso.”",
+                "alt": "profile picture",
+                "rating": 5,
+                "country": "Newzealand-NZ"
+            }
+        ],
+        "bg_image": [
+          
+            {
+                "image": "/assets/images/testimonial-right-img.svg",
+                "alt": "testimonial-right-img"
+            }
+        ]
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "title": "Bioscope Journeys India",
+        "label": "A Destination Management Company for INDIA, NEPAL, BHUTAN, SRI LANKA",
+        "label2": "Bioscope Journeys India is about offering customized, carefully curated travel experiences, much like a filmmaker creates a unique movie. The name represents our core belief of carefully designing each trip to reflect the individual story of the traveller. The company takes inspiration from the cinematic world—where life is an unfolding narrative, and each journey is a new chapter, filled with personal discovery, exploration, and emotional connection. Each trip with Bioscope Journeys India is meant to make travellers feel like they are the heroes of their own journey, living a story that is as meaningful, personalized, and unforgettable as a well-crafted film.",
+        "label3": "The Indian subcontinent is a dynamic and intricate destination, boasting a rich blend of culture, history, and natural beauty. Though it's called a country, India is truly a continent in its vastness, and if you had to capture it in one word, that word would be diversity",
+        "lable4":"At Bioscope Journeys India we will helping you navigate through the rich variety of destinations available.",
+        "lable5":"With our extensive knowledge and ground support, we assure that your journey will be seamless and unforgettable. Our thoughtfully designed itineraries venture beyond the usual tourist paths, enabling you to discover the country’s diverse heritage, stunning landmarks, and breath-taking landscapes. With Bioscope Journeys India, you won’t just visit India—you’ll experience its magic, leaving you with stories and impressions that resonate long after you return home.",
+        "lable6":"Let’s embark on an unforgettable adventure together!",
+        "product": [
+            {
+                "id": 1,
+                "slug": "/destination",
+                "image": "/assets/images/categories-img-1.jpg",
+                "alt": "categories img 1",
+                "title": "North India",
+                "detail":"To the north, the Himalayas overlook Ladakh's stunning landscapes and Buddhist culture. Kashmir, the \"Paradise on Earth,\" is famed for its valleys and vibrant traditions. Amritsar houses the Golden Temple, Dharamshala the Dalai Lama’s home, Shimla has colonial charm, and Delhi blends historic grandeur with modern life.",
+                "count": 3
+            },
+            {
+                "id": 2,
+                "slug": "/destination",
+                "image": "/assets/images/categories-img-2.jpg",
+                "alt": "categories img 2",
+                "title": "Rajasthan",
+                "detail":"Heading south, you encounter Rajasthan colourful and historically rich state celebrated for its majestic forts, palaces, vibrant culture, and to the colourful bazaars of Jaipur and the iconic Taj Mahal in Agra",
+                "count": 5
+            },
+            {
+                "id": 3,
+                "slug": "/destination",
+                "image": "/assets/images/categories-img-3.jpg",
+                "alt": "categories img 3",
+                "title": "Central India",
+                "detail":"Central India is home to leopards, sloth bears, and the majestic Bengal tiger and with Khajuraho standing out for its stunning temples adorned with intricate erotic sculptures",
+                "count": 2
+            },
+            {
+                "id": 4,
+                "slug": "/destination",
+                "image": "/assets/images/categories-img-4.jpg",
+                "alt": "categories img 4",
+                "title": "Varanasi & Kolkata",
+                "detail":"Eastward, Varanasi is a vibrant spiritual hub famous for the sacred Ganges, ancient temples, and rich traditions, while Kolkata is a dynamic city known for its colonial history, artistic heritage, and lively culture encompassing literature, music, and cuisine",
+                "count": 8
+            },
+            {
+                "id": 5,
+                "slug": "/destination",
+                "image": "/assets/images/categories-img-5.jpg",
+                "alt": "categories img 5",
+                "title": "North East",
+                "detail":"Darjeeling and Sikkim are captivating north eastern destinations known for their breath-taking Himalayan views and tea gardens, while Assam is a lush state famous for its tea plantations, diverse wildlife, including the one-horned rhino, and vibrant cultural traditions.",
+                "count": 3
+            },
+            {
+                "id": 6,
+                "slug": "/destination",
+                "image": "/assets/images/categories-img-6.jpg",
+                "alt": "categories img 6",
+                "title": "Odhissa, Andhra Pradesh, Tamil Nadu & Karnataka",
+                "detail":"Orissa, Andhra Pradesh, and Tamil Nadu are vibrant states in southeaster India, each known for their rich cultural heritage, stunning temples, and diverse cuisines that reflect the region's historical and artistic richness. ",
+                "count": 6
+            }
+        ]
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "image": "/assets/images/get-about-us-img.svg",
+        "alt": "get-about-us-img",
+        "top_title": "Get About Us",
+        "main_label": "We create the trips you love",
+        "short_des": "We craft personalized travel experiences tailored to your passions. Whether it's exploring hidden gems, immersing in rich cultures, or embracing adventure, we design trips that resonate with your love for discovery. Let us bring your dream journey to life!",
+        "review": [
+            {
+                "title": "Years of Experience",
+                "label": "With years of expertise, we craft memorable travel experiences tailored to your needs."
+            },
+            {
+                "title": "Best Travel Agents",
+                "label": "Discover unforgettable journeys with the best travel agents, crafting your perfect getaway!"
+            }
+        ],
+        "btn_slug":"/destination",
+        "btn_label":"Know more"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "bg_image": "/assets/images/why-choose-us-bg.svg",
+        "bg_alt": "why-choose-us-bg",
+        "title": "Why choose us?",
+        "label": "We take the time to understand your travel style and preferences, offering customized itineraries that reflect your interests and desires. Whether you’re looking for a romantic getaway, a family vacation, or a solo adventure, we create personalized itineraries to suit your needs.",
+        "service": [
+            {
+                "title": "Set Travel Plan",
+                "label": "Plan your perfect getaway effortlessly with our tailored travel itineraries!",
+                "image": "/assets/images/world-tour-icon.png",
+                "alt": "world-tour-icon"
+            },
+            {
+                "title": "Explore Around",
+                "label": "Discover hidden gems and must-visit spots around the world with us!",
+                "image": "/assets/images/travelling-icon.png",
+                "alt": "travelling-icon"
+            },
+            {
+                "title": "Best Guide",
+                "label": "Your ultimate guide to unforgettable travel experiences and hidden gems.",
+                "image": "/assets/images/best-guide-icon.png",
+                "alt": "best-guide-icon"
+            },
+            {
+                "title": "Support 24/7",
+                "label": "Enjoy 24/7 support for all your travel needs—anytime, anywhere, we're here!",
+                "image": "/assets/images/support-icon.png",
+                "alt": "support-icon"
+            },
+            {
+                "title": "Luxary Hotel",
+                "label": "Experience unmatched elegance and comfort at our luxury hotel retreat.",
+                "image": "/assets/images/luxary-hotel-icon.png",
+                "alt": "luxary-hotel-icon"
+            },
+            {
+                "title": "Easy Booking",
+                "label": "Book your dream getaway effortlessly with our quick and easy booking process.",
+                "image": "/assets/images/easy-booking-icon.png",
+                "alt": "easy-booking-icon"
+            }
+        ],
+        "offers": [
+            {
+                "slug": "/tour-detail-2",
+                "title": "Weekly Flash deels",
+                "label": "Upto 45% off",
+                "image": "/assets/images/weekly-flash-deels-img.jpg",
+                "alt": "weekly-flash-deels-img",
+                "btn_label": "View deals"
+            },
+            {
+                "slug": "/tour-detail-2",
+                "title": "Summer escaps",
+                "label": "Plan your next trip with us.",
+                "image": "/assets/images/summer-escaps-img.png",
+                "alt": "summer-escaps-img",
+                "btn_label": "View deals"
+            }
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "title": "A Simply Perfect Place To Get Lost",
+        "label": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna nunc id cursus metus aliquam eleifend. Integer enim neque volutpat ac tincidunt vitae.",
+        "first_image": "/assets/images/about-img1.jpg",
+        "first_alt": "about img 1",
+        "second_image": "/assets/images/about-img2.jpg",
+        "second_alt": "about img 2",
+        "third_image": "/assets/images/about-img3.jpg",
+        "third_alt": "about img 3",
+        "points": [
+            {
+                "label": "Adipiscing elit ut aliquam purus sit"
+            },
+            {
+                "label": "Amet luctus venenatis. Felis bibendum"
+            },
+            {
+                "label": "Ut tristique et egestas quis. Gravida in"
+            },
+            {
+                "label": "Ermentum et sollicitudin ac."
+            },
+            {
+                "label": "Nibh nisl condimentum id venenatis a."
+            }
+        ],
+        "contect": [
+            {
+                "slug": "tel:+12345455454",
+                "icon": "fa-solid fa-phone",
+                "label": "+1 234 545 5454"
+            },
+            {
+                "slug": "mailto:journeya@gmail.com",
+                "icon": "fa-solid fa-phone",
+                "label": "journeya@gmail.com"
+            }
+        ]
+    }
+]

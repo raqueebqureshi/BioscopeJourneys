@@ -1,0 +1,40 @@
+[
+    {
+        "title": "We Are Travel Point",
+        "label": "We Are Travel Point of India, dedicated to crafting immersive travel experiences across India. From iconic destinations to hidden gems, we offer personalized journeys that connect you to the culture, heritage, and natural beauty of the land. Join us for a memorable adventure that brings India's vibrant spirit to life!",
+        "product": [
+            {
+                "value": 678,
+                "label": "Destinations Place",
+                "image": "/assets/images/destinations-icon1.png",
+                "alt": "destinations-icon1",
+                "width": 82,
+                "height": 81
+            },
+            {
+                "value": 2547,
+                "label": "Amazing Tours",
+                "image": "/assets/images/destinations-icon2.png",
+                "alt": "destinations-icon2",
+                "width": 82,
+                "height": 85
+            },
+            {
+                "value": 98,
+                "label": "Tour Types",
+                "image": "/assets/images/destinations-icon3.png",
+                "alt": "destinations-icon3",
+                "width": 82,
+                "height": 80
+            },
+            {
+                "value": "12,567",
+                "label": "Happy Customer",
+                "image": "/assets/images/destinations-icon4.png",
+                "alt": "destinations-icon4",
+                "width": 82,
+                "height": 86
+            }
+        ]
+    }
+]
