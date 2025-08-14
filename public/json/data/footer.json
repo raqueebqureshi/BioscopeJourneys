@@ -12,7 +12,7 @@
                 "logo": [
                     {
                         "slug": "/",
-                        "img": "/assets/images/logo_w.jpg",
+                        "img": "/assets/images/logo_w2.png",
                         "alt": "logo-dark"
                     }
                 ],
@@ -76,13 +76,13 @@
                             "img": "/assets/images/call-sharp.png",
                             "alt": "call-sharp",
                             "slug": "tel: +91-9873899913",
-                            "label": "91-9873899913"
+                            "label": "+91-9873899913"
                         },
                         {
                             "img": "/assets/images/call-sharp.png",
                             "alt": "call-sharp",
                             "slug": "tel: +91-9910690245",
-                            "label": "91-9910690245"
+                            "label": "+91-9910690245"
                         },
                         {
                             "img": "/assets/images/mail-unread.png",

@@ -309,19 +309,19 @@ export default function Footer({ initialValues }) {
                       data.mid_data.map((mid_data_data, index) => {
                         return (
                           <React.Fragment key={index}>
-                            <div className="mb-10 lg:mb-6 text-left lg:max-w-[260px]">
+                            <div className="mb-10 lg:mb-6 text-left lg:max-w-[360px]">
                               {mid_data_data.logo &&
                                 mid_data_data.logo.map((logo_data, index) => {
                                   return (
-                                    <div className="mb-3 lg:mb-6" key={index}>
+                                    <div className="mb-3 lg:mb-3 flex justify-start" key={index}>
                                       <Link
                                         href={logo_data.slug}
                                         className="inline-block">
                                         <Image
                                           src={logo_data.img}
                                           alt={logo_data.alt}
-                                          width={181}
-                                          height={56}
+                                          width={201}
+                                          height={76}
                                         />
                                       </Link>
                                     </div>
